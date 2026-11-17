@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`Bohdan Kharchenko is an art director and brand strategist with 7 years across retail, tech and media. Brand identity systems and campaign design grounded in a psychology background.`,robots:`max-image-preview:large`,title:` Portfolio | Art Director | Bohdan Kharchenko`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# sourceMappingURL=shared-lib.022xLjdf.mjs.map
