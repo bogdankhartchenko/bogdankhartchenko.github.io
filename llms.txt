@@ -1,0 +1,15 @@
+# Bohdan Kharchenko — Art Director & Graphic Designer
+
+> Portfolio of Bohdan Kharchenko: art direction, brand identity and illustration systems, with case studies.
+
+## Pages
+
+- [Home](https://bogdankhartchenko.github.io/): selected work, clients, services and contact
+- [Illustration system for Bitcoin Magazine Ukraine](https://bogdankhartchenko.github.io/illustration-system): case study of an editorial illustration system
+- [BRO naming and identity](https://bogdankhartchenko.github.io/bro): case study of a name, logo and layout generator for a furniture maker
+
+## Contact
+
+- [Telegram](https://t.me/danhartme)
+- [LinkedIn](https://www.linkedin.com/in/bohdankharchenko/)
+- [Behance](https://www.behance.net/bohdankharchenko)
